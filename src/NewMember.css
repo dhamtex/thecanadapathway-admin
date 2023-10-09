@@ -1,0 +1,17 @@
+.newUserForm {
+  position: unset;
+  top: unset;
+  left: unset;
+  transform: unset;
+  background: white;
+  height: fit-content;
+  padding: 0 1rem;
+  margin-top: 1rem;
+  border-top: 3px solid blue;
+  width: 50%;
+  padding-bottom: 2rem;
+}
+
+.newUserForm > p {
+  margin-top: 1rem;
+}

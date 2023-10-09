@@ -1,0 +1,36 @@
+.card,
+.card-2,
+.card-3 {
+  margin-top: 2rem;
+  width: 250px;
+  padding: 0.5rem 0.8rem;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  cursor: pointer;
+  margin-right: 1.5rem;
+}
+
+.card {
+  background: green;
+}
+
+.card-2 {
+  background: orangered;
+}
+
+.card-3 {
+  background: orange;
+}
+
+.card:hover {
+  background: darkgreen;
+}
+
+.card-2:hover {
+  background: darkred;
+}
+
+.card-3:hover {
+  background: darkorange;
+}
